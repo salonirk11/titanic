@@ -1,1 +1,3 @@
-# titanic
+Titanic: Machine Learning predictions
+
+
